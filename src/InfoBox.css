@@ -1,0 +1,30 @@
+.InfoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+p{
+    color: rgb(226, 32, 197);
+}
+
+.CardContent{
+    width: 250px;
+    border-radius: 15px !important;
+    /* border: 1px solid black; */
+    box-shadow: 6px 6px 10px rgb(33, 32, 32) !important;
+}
+
+.CardContent:hover{
+    box-shadow: 14px 14px 20px rgb(33, 32, 32) !important;
+    transition: linear 0.1s;
+}
