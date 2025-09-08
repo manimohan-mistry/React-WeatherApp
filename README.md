@@ -4,7 +4,7 @@ A sleek, responsive weather forecasting app built using **React.js**, **JavaScri
 
 ##  Live Demo
 
-Check it out: [Live App on Render](https://weather-app-m67h.onrender.com) :contentReference[oaicite:1]{index=1}
+Check it out: [Live App on Render](https://weather-app-m67h.onrender.com)
 
 ---
 
